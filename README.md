@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Cytometry in R 
+- Location: Cambridge, United Kingdom
+- Favourite Fluorophore: PE (honestly just the first one that came to mind)
+- Previous coding experience: School IT lessons on Scratch
+- What I hope to get from this course: An intro to R, and how it can be used within flow cytometry
